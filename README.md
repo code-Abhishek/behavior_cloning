@@ -90,8 +90,10 @@ To reduce overfitting the model I utilized the left and the right image of the d
 
 To augment the data set further, I also flipped images and angles thinking that this would help further reduce overfitting the model given the prior knowledge of the scenery. For example, here is an image that has then been flipped:
 
-![alt text][centerimage]
-![alt text][flippedimg]
+
+![alt text][centerimg] &emsp; &emsp;  ![alt text][flippedimg]
+
+&emsp; &emsp; &emsp; &emsp; &emsp; Center Image &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; Flipped Image
 
 
 After the collection process, I preprocessed the data by normalizing it using the lambda function (cl#64) 

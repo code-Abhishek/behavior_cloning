@@ -28,7 +28,18 @@ code line number : cl#
 
 #### Ever wondered, what it looks like to let a computer drive like you? I did. Here's what it does:
 
-![alt text][runvideogif]
+
+
+
+
+
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ![alt text][runvideogif] 
+
+
+
+
+
+
 
 
 #### Let's see how I got my computer to learn that.
